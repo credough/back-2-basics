@@ -28,3 +28,8 @@ This is a mini program in c I made during vacation to help a friend practice bas
 ## Sample Run
 
 ![Program Screenshot](ss1.jpeg)
+
+---
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="80"/>
+
